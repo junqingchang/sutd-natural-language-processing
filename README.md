@@ -1,2 +1,4 @@
-# sutd-natural-language-processing
-SUTD 50.040 Natural Language Processing Problem Sets
+# SUTD 50.040 Natural Language Processing
+SUTD Natural Language Processing Problem Sets
+## Contains (Without helper files)
+* HW 1
