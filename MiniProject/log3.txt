@@ -1,0 +1,41 @@
+Vocabulary size: 50003
+Epoch 1
+Train Loss Forward: 4.939872907846414
+Validation Loss Forward: 4.612497470497545
+Perplexity Forward: 100.73541947447593
+Epoch 2
+Train Loss Forward: 4.753799726032671
+Validation Loss Forward: 4.5588625896030965
+Perplexity Forward: 95.4748239911898
+Epoch 3
+Train Loss Forward: 4.738553273687564
+Validation Loss Forward: 4.538865054894357
+Perplexity Forward: 93.58452652319116
+Epoch 4
+Train Loss Forward: 4.735695832968617
+Validation Loss Forward: 4.529804881881265
+Perplexity Forward: 92.74046397177133
+Epoch 5
+Train Loss Forward: 4.73140144224874
+Validation Loss Forward: 4.520942990057069
+Perplexity Forward: 91.92223887826853
+Epoch 1
+Train Loss Backward: 4.902390393191886
+Validation Loss Backward: 4.600938330948083
+Perplexity Backward: 99.5777086640786
+Epoch 2
+Train Loss Backward: 4.74074219247871
+Validation Loss Backward: 4.547182974232808
+Perplexity Backward: 94.3662015140415
+Epoch 3
+Train Loss Backward: 4.722994692493657
+Validation Loss Backward: 4.524083051206839
+Perplexity Backward: 92.21133397997939
+Epoch 4
+Train Loss Backward: 4.711774963947875
+Validation Loss Backward: 4.507140004257272
+Perplexity Backward: 90.66215399337055
+Epoch 5
+Train Loss Backward: 4.70418411147949
+Validation Loss Backward: 4.5032703261569615
+Perplexity Backward: 90.31199857286411
